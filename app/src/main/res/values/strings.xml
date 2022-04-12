@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CoffeApp</string>
+    <string name="text_title">Cappuccino</string>
+    <string name="_15_minutes">15 minutos</string>
+    <string name="_300_likes">300</string>
+    <string name="infoCoffe">Uma simples e perfeitamente extraída dose de espresso misturado com leite fresco e chocolate fazem esta bebida deliciosa.</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="dose_express">1 dose espresso</string>
+    <string name="milk">100 ml de leite</string>
+    <string name="chocolate">1 colher de chocolate em pó</string>
+</resources>
